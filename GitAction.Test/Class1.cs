@@ -8,7 +8,7 @@ namespace GitAction.Test
         [Test]
         public void Run()
         {
-            Assert.AreEqual(1, 0);
+            Assert.AreEqual(1, 0,"Not Equal");
         }
     }
 }
